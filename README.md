@@ -1,1 +1,3 @@
-# 1030516500_BS436_WebProgramlama
+Öğrenci Numarası: 1030516500
+Öğrenci Adı: Fatih Çınar
+Ders Adı: BS436 Web Programlama
